@@ -21,6 +21,7 @@ ul {
   padding-top: 35px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .menu_list {
@@ -101,11 +102,12 @@ ul {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #9a9a9a;
+  line-height: 32px;
 }
 
 .frame {
   width: 500px;
-  margin-top: 160px;
+  margin-top: 130px;
   margin-left: 27px;
   margin-right: 50px;
   margin-bottom: 170px;
